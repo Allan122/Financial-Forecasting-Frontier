@@ -1,4 +1,4 @@
-# Financial Forecasting Frontier: Distributed Machine Learning 🚀📈
+# Financial Forecasting Frontier: Distributed Machine Learning
 
 ## Project Overview
 The modern banking sector generates massive volumes of data daily, encompassing customer demographics, transactional histories, and marketing campaign interactions. Traditional, single-node data processing methods often fail to scale against the volume and velocity of this data. 

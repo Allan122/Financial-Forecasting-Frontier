@@ -40,7 +40,7 @@ Financial institutions require scalable architectures to efficiently query histo
 ### 5. Data Parallelism
 * Demonstrated how splitting data into multiple partitions across a Spark cluster speeds up processing for both SQL queries and Machine Learning cross-validation (`CrossValidator`).
 
-## 📊 Business Impact
+## Business Impact
 * **Targeted Marketing:** The predictive model identifies high-value clients with a high probability of subscribing, allowing call centers to maximize ROI and minimize time wasted on false positives.
 * **Operational Efficiency:** The transition to a distributed architecture ensures the bank can handle petabytes of data without system failures.
 * **Live Monitoring:** The streaming architecture lays the groundwork for real-time fraud detection and instant marketing alerts.
